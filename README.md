@@ -43,7 +43,7 @@
 2. #### Провести разведывательный анализ данных и выявить основные закономерности.
 3. #### Сформировать набор данных о характеристиках каждого из уникальных клиентов.
 4. #### Построить несколько моделей машинного обучения, решающих задачу кластеризации клиентов, определить количество кластеров и проинтерпретировать их.
-:arrow_up: [к оглавлению](https://github.com/AleksDEF/Gift-_shop_client_clusterization/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/README.md#Оглавление)
 
 ### Результат
 (https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/Gift_shop_client_clusterization.ipynb)
