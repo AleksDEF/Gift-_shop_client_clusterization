@@ -34,7 +34,7 @@
 * CustomerID — идентификатор клиента (уникальный пятизначный номер, однозначно присваиваемый каждому клиенту);
 * Country — название страны, в которой проживает клиент.
 
-Дата-сет используемый в анализе (RAR) - (https://github.com/AleksDEF/skillf_data_science/blob/main/Project-6/data_pr6.rar)
+Дата-сет используемый в анализе (RAR) - (https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/data_pr6.rar)
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/README.md#Оглавление)
 
