@@ -1,7 +1,7 @@
 # Сегментация клиентов онлайн магазина подарков.
 
 ## Оглавление 
-[1. Описание проекта](https://github.com/AleksDEF/Gift-_shop_client_clusterization/README.md#Опиасние-проекта)
+[1. Описание проекта](https://github.com/AleksDEF/Gift-_shop_client_clusterization/edit/main/README.md#Опиасние-проекта)
 
 [2. Какой кейс решаем?](https://github.com/AleksDEF/Gift-_shop_client_clusterization/README.md#Какой-кейс-решаем?)
 
