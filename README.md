@@ -46,7 +46,7 @@
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/README.md#Оглавление)
 
 ### Результат
-(https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/Gift_shop_client_clusterization.ipynb)
+[Ноутбук с решением](https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/Gift_shop_client_clusterization.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/README.md#Оглавление)
 
