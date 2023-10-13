@@ -46,7 +46,7 @@
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/skillf_data_science/blob/main/Project-6/README.md#Оглавление)
 
 ### Результат
-(https://github.com/AleksDEF/skillf_data_science/blob/main/Project-6/PROJECT_6_%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb)
+(https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/Gift_shop_client_clusterization.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/AleksDEF/My-data-science-projects/blob/main/Project-6/Gift_shop_client_clusterization.ipynb)
 
