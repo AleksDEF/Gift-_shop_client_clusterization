@@ -3,7 +3,7 @@
 ## Оглавление 
 [1. Описание проекта](https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[2. Какой кейс решаем?](https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/README.md#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/AleksDEF/Gift-_shop_client_clusterization/blob/main/README.md#Краткая-информация-о-данных)
 
